@@ -1,5 +1,7 @@
 # NFT certificates and Gallery 🖼️
 
+![](./site_preview.png)
+
 __Mint Site__: https://minting-z2h-certificate.vercel.app/
 
 🤖 Smart-contract address: https://testnet.bscscan.com/address/0x0e66232e12223045d3692c664a71b06Aef9713c8
